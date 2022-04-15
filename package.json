@@ -1,0 +1,17 @@
+{
+  "name": "node-mp4-to-mp3-convert",
+  "version": "1.0.0",
+  "description": "MP4 to MP3 convert in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "rjoydip",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "hyperid": "^3.0.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
